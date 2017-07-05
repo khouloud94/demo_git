@@ -1,3 +1,2 @@
 # demo_git
-demonstation git
-une demonstration de git
+une demonstration de git qui se produite
